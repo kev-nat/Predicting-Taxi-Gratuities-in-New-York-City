@@ -1,1 +1,4 @@
-# Predicting-Taxi-Gratuities-in-New-York-City
+# Predicting Taxi Gratuities in New York City
+
+### **Overview**
+The objective of this project was to develop multiple linear regression and random forest models to predict whether a rider would leave a high gratuity. The project analyzed yellow taxi trips in New York City from 2017. The final random forest model achieved an accuracy of 70% and a precision of 69%, identifying key features that distinguish low tippers from high tippers. The model revealed that the duration, distance, and cost of the trip were the most significant factors in determining whether a tip would exceed 20%. Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC), which oversees the licensing and regulation of taxis and for-hire vehicles in the city. The TLC has partnered with Automatidata to create a regression model to estimate taxi fares before the ride, utilizing the data collected by the TLC.
