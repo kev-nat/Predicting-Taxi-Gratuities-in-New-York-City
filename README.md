@@ -9,7 +9,7 @@
 ### **Data Understanding**
 <p align="justify"> The data from the NYC Taxi and Limousine Commission, sourced from <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC.gov</a>, includes approximately 408,000 unique trips and 18 features. These features cover details such as trip duration, destination, vendor, toll information, and payment type. The bar chart below illustrates the distribution of generous tippers (those tipping over 20%) compared to non-generous tippers within the dataset. </p>
 
-![image](https://github.com/user-attachments/assets/ef9bfbdd-10ac-4863-9541-22e6fece1004)
+![image](https://github.com/user-attachments/assets/a70399a7-7d3d-477b-a79c-caadac580f9a)
 
 <p align="justify"> In connection with this, a feature was engineered to represent whether a ride was taken during rush hour or not. Multiple redundant columns were dropped and reformatted into the proper data type. </p>
 
