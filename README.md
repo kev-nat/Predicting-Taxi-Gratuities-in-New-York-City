@@ -7,7 +7,7 @@
 <p align="justify"> According to salary.com, New York taxi drivers earn an average salary of approximately $45,000. This income is notably low when compared to the median monthly rent of $6,500. To help drivers achieve a livable wage, it is crucial to understand the factors that motivate riders to leave tips. </p>
 
 ### **Data Understanding**
-<p class="justified-text"> The data from the NYC Taxi and Limousine Commission, sourced from <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC.gov</a>, includes approximately 408,000 unique trips and 18 features. These features cover details such as trip duration, destination, vendor, toll information, and payment type. The bar chart below illustrates the distribution of generous tippers (those tipping over 20%) compared to non-generous tippers within the dataset. </p>
+<p align="justify"> The data from the NYC Taxi and Limousine Commission, sourced from <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC.gov</a>, includes approximately 408,000 unique trips and 18 features. These features cover details such as trip duration, destination, vendor, toll information, and payment type. The bar chart below illustrates the distribution of generous tippers (those tipping over 20%) compared to non-generous tippers within the dataset. </p>
 
 ![image](https://github.com/user-attachments/assets/ef9bfbdd-10ac-4863-9541-22e6fece1004)
 
